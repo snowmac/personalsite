@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-[Resume PDF](images/resume.pdf)
+[Resume PDF](/personalsite/images/resume.pdf)
 
 ### Contact me
 
