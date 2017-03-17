@@ -9,5 +9,6 @@ touch $filename
 echo "---" >> $filename
 echo "layout: post" >> $filename
 echo "title: $*" >> $filename
+echo "permalink: /$(date +'%Y/%m/%d')/$hypened" >> $filename
 echo "---" >> $filename
 
