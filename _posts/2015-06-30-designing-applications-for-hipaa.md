@@ -16,7 +16,7 @@ tags:
   - web
   - web applications
 ---
-Welcome to my blog. I’m Adam. I’m a Senior Software Engineer for a health insurance company. Me and my team are designing the next generation web applications that will transform the healthcare industry. Currently we’re building a call center application in Javascript.<!--more-->
+Welcome to my blog. I’m Adam. I’m a Senior Software Engineer for a health insurance company. Me and my team are designing the next generation web applications that will transform the healthcare industry. Currently we’re building a call center application in Javascript.
 
 Today we’re going to be discussing HIPAA compliance and concerns when building web applications.
 
