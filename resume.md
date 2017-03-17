@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-[Resume PDF](/personalsite/images/resume.pdf)
+[Resume PDF](https://snowmac.github.io/personalsite/images/resume.pdf)
 
 ### Contact me
 
